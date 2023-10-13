@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anudeep Dalvi</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="coding" width="400" 
-<src="![vecteezy_webpage-template-with-code-icon_26418674_410](https://github.com/anudeepdalvi/anudeepdalvi/assets/116584348/23a665d3-ee7d-40bf-b486-356efb6cc241)">
+<src="<a href="https://www.vecteezy.com/png/26418674-webpage-template-with-code-icon">webpage template with code icon PNGs by Vecteezy</a>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepdalvi&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepdalvi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/anudeepdalvi" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/anudeepdalvi?logo=twitter&style=for-the-badge" alt="https://twitter.com/anudeepdalvi" /></a> </p>
