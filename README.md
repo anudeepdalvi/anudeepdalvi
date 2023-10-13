@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anudeep Dalvi</h1>
 <h3 align="center">A passionate MERN stack developer from Mumbai</h3>
 
- <img align ="right"  alt="coding anudeep" width="400" src="https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62609.jpg?w=1380&t=st=1697229896~exp=1697230496~hmac=cc635efdff274abac9a6cd4053d7dd189676af01fa09f3ddc36cb7679435d86b"> 
+ <img align ="right"  alt="coding anudeep" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepdalvi&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepdalvi" /> </p>
 
